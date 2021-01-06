@@ -1,0 +1,16 @@
+.body{
+    font-family: Arial, Helvetica, sans-serif; 
+ }
+.main-header{
+    background-color: red;
+}
+.cls{
+    background-color: red;
+} 
+span{
+    color: white;
+    background-color: black;
+}
+.usa{
+    color: cadetblue;
+}

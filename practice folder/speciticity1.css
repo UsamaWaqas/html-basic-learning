@@ -1,0 +1,17 @@
+h1{
+    color: green;
+}
+
+/* #usa{
+    color: blue !important;
+} */
+/* inline style> id selector>class selector> element selector */
+ h1.waqas{
+    color: violet;
+}
+.cls{
+    color: red;
+}
+/* we can take 2 classes but can not take 2 id 
+ */ 
+ in two classes 2nd is important

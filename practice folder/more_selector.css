@@ -1,0 +1,37 @@
+/* *{
+    /* color: blue;      it is a universal set tag mostly use for reset css  */
+/* } */ 
+
+
+
+header{
+    background-color: palevioletred;
+}
+
+
+section.my-articles{
+    background-color: peachpuff; 
+}
+
+
+
+/* p{
+color: red;
+} */
+  /* header p{            it is a decender combinator
+      color: red;
+  }
+ */
+
+/* section.my-articles h2{
+    color: green;
+} */
+section.my-articles > h2{
+    color: green;
+}
+ section.my-articles h2+p{
+    color: greenyellow;
+}
+ul+p{
+    color: pink ;
+}

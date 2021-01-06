@@ -1,0 +1,14 @@
+h2 , img{
+    border: 4px solid red;
+    border-radius: 10px;
+} 
+/* div{
+    border: 8px ridge blue;
+}
+li{
+    border: 3px dotted pink; */
+/* } */
+/* border solid ,groov, ridge ,dashed dotted */
+span{
+    border: 2px solid black;
+}

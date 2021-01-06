@@ -1,0 +1,20 @@
+h2{
+    border: 20px solid blue;
+    /* padding-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px; */
+    /* padding: 40px 30px 20px 40px; */
+    /* clock wise  */
+    /* padding: 20px 30px; */
+    padding: 20px;
+    /* margin-left: 100px;
+    margin-top: 50px; */
+    /* margin: 100px; */
+    text-align: center;
+   width: 500px;
+   margin: 20px auto;
+   background-color:lightblue;
+
+}
+/* space between content and border called padding */
+/* space out of the border called margin */

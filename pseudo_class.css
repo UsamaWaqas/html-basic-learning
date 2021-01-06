@@ -1,0 +1,18 @@
+/* a:link{
+    color: green;
+}
+a:visited{
+    color: hotpink;
+
+}
+a:hover{
+    color:red;
+}
+a:active{
+    color: rgb(88, 14, 14);
+} */
+ input:focus{
+    padding: 20px;
+    outline-style:dotted;
+    border: 2px ridge gray;
+}
