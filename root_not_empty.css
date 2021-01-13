@@ -1,0 +1,17 @@
+/* body :not(.cls){
+    color: slateblue;
+    background-color: springgreen;
+}
+
+
+div:empty{
+    color: steelblue;
+    border: 2px solid blue;
+    width: 100px;
+    height: 100px;
+} */
+:root{
+    color: white;
+    background-color: black;
+    
+}

@@ -1,0 +1,16 @@
+ html{
+     font-size: 62.5%;
+ }  
+   
+   
+   /*  font size
+use rem */
+h2{
+    font-size: 30px;
+    border: 2em solid black;
+    padding: 1em;
+
+}
+p{
+    font-size: 2rem;
+} 

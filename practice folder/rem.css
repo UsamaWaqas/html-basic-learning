@@ -1,0 +1,11 @@
+html{
+    /* font-size: 10px; */
+  font-size: 62.5%;
+}
+.box{
+    font-size: 2rem;
+    border: 1rem solid red;
+    padding: 2rem;
+    margin: 4.5 rem;
+   
+}

@@ -1,0 +1,19 @@
+div{
+    font-size: 20px;
+    border: 5px ridge black;
+    width: 50%;
+}
+
+
+
+
+p{
+    
+    font-size:300%;
+    border: 5px ridge lightblue;
+    background-color: lightcoral;
+    width: 50%;
+    margin: 5% auto;
+    text-align: center;
+    
+}
